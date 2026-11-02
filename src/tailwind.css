@@ -1,0 +1,21 @@
+/* Orden de las capas de Tailwind */
+@layer theme, base, components, utilities;
+
+/* Partes de Tailwind: variables del tema, reinicio de estilos y clases utilitarias */
+@import "tailwindcss/theme.css" layer(theme) prefix(tw);
+@import "tailwindcss/preflight.css" layer(base);
+@import "tailwindcss/utilities.css" layer(utilities) prefix(tw);
+
+/* Colores del sitio: Tailwind genera clases como bg-primario, text-gris, border-lila */
+@theme {
+  --color-primario: #3a1ad9;
+  --color-primario-oscuro: #1e0b80;
+  --color-secundario: #8b63ff;
+  --color-lila: #d4c4ff;
+  --color-lila-claro: #ece6ff;
+  --color-fondo: #f7f5ff;
+  --color-acento: #ffc2ff;
+  --color-texto: #140a52;
+  --color-gris: #55508a;
+  --font-sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}

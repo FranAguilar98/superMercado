@@ -1,0 +1,26 @@
+{
+  "name": "superplaneta",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://github.com/FranAguilar98/superMercado",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "gh-pages": "^6.2.0",
+    "vite": "^5.4.10"
+  }
+}
