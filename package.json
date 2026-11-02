@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/FranAguilar98/superMercado",
+  "homepage": "https://franaguilar98.github.io/superMercado",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
