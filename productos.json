@@ -1,5 +1,0 @@
-[
-  { "id": 1, "nombre": "Arroz grado 1 (1 kg)", "categoria": "Despensa", "precio": 1590, "stock": 120, "stockMinimo": 30, "imagen": "img/arroz.jpg" },
-  { "id": 2, "nombre": "Fideos espagueti (400 g)", "categoria": "Despensa", "precio": 990, "stock": 18, "stockMinimo": 25, "imagen": "img/fideos.jpg" },
-  { "id": 3, "nombre": "Aceite de maravilla (1 L)", "categoria": "Despensa", "precio": 2490, "stock": 0, "stockMinimo": 20, "imagen": "img/aceite.avif" }
-]
