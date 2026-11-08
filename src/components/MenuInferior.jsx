@@ -11,7 +11,7 @@ const claseItem = ({ isActive }) =>
   `tw:flex-1 tw:border-t-4 tw:py-4 tw:text-center tw:text-base tw:transition-colors ${
     isActive
       ? 'tw:border-secundario tw:bg-lila-claro tw:font-bold tw:text-primario'
-      : 'tw:border-transparent tw:text-gris hover:tw:bg-lila-claro'
+      : 'tw:border-transparent tw:text-gris tw:hover:bg-lila-claro'
   }`
 
 function MenuInferior() {

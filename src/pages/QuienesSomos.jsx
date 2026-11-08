@@ -13,7 +13,7 @@ function QuienesSomos() {
         productos en orden.
       </p>
 
-      <div className="tw:grid tw:gap-4 md:tw:grid-cols-3">
+      <div className="tw:grid tw:gap-4 tw:md:grid-cols-3">
         <article className={claseBloque}>
           <h2 className={claseSubtitulo}>Qué hacemos</h2>
           <p>

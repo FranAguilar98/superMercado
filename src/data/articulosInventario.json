@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Arroz grado 1 (1 kg)", "marca": "Tucapel", "tipo": "Despensa", "precio": 1590, "stock": 120, "stockMinimo": 30, "imagen": "img/arroz.jpg" },
+  { "id": 2, "nombre": "Fideos espagueti (400 g)", "marca": "Carozzi", "tipo": "Despensa", "precio": 990, "stock": 18, "stockMinimo": 25, "imagen": "img/fideos.jpg" },
+  { "id": 3, "nombre": "Aceite de maravilla (1 L)", "marca": "Chef", "tipo": "Despensa", "precio": 2490, "stock": 5, "stockMinimo": 20, "imagen": "img/aceite.avif" }
+]
